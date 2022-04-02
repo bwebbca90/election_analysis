@@ -17,6 +17,7 @@ The purpose of this analysis is to verify the winner of the popular election acr
 
 
 ### Election-Audit Results
+
 *369,711 total votes were cast in this congressional election across three counties in the precinct.
 *Results by County Breakdown: 
  - Arapahoe had the lowest votes in the precinct, 6.7% with 24,801 total votes. 
