@@ -1,5 +1,5 @@
 # Election Analysis
-![Image of Election Outcome](<./resources/Election_Results.png>) 
+![Image of Election Outcome](<./Resources/Election_Results.png>) 
 
 ## Overview of Election Audit
 The Colorado Board of Elections requested an audit regarding a recent election for a congressional election. They have requested the following:
