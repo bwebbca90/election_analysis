@@ -2,15 +2,15 @@
 ![Image of Election Outcome](<./resources/Election_Results.png>) 
 
 ## Overview of Election Audit
-The Colorado Board of Elections requested an audit regarding a recent election for a congressional election. They have requested the following: 
-*Calculate the total number of votes cast. 
-*Get a complete list of candidates who received votes. 
-*Calculate the total number of votes each candidate received. 
-*Calculate the percentage of votes each candidate won. 
-*Determine the winner of the election based on popular vote.
-*Calculate the voter turnout for each county.
-*Calculate the percentage of votes each county contributed to the election.
-*Determine which county had the largest turnout.
+The Colorado Board of Elections requested an audit regarding a recent election for a congressional election. They have requested the following:
+1) Calculate the total number of votes cast.
+2) Get a complete list of candidates who received votes.
+3) Calculate the total number of votes each candidate received.
+4) Calculate the percentage of votes each candidate won. 
+5) Determine the winner of the election based on popular vote.
+6) Calculate the voter turnout for each county.
+7) Calculate the percentage of votes each county contributed to the election.
+8) Determine which county had the largest turnout.
 
 ### Purpose
 The purpose of this analysis is to verify the winner of the popular election across three counties and the counties' participation in said election. Post-election audits are necessary for ensuring the accuracy of the results. 
