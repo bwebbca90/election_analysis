@@ -17,18 +17,17 @@ The purpose of this analysis is to verify the winner of the popular election acr
 
 
 ### Election-Audit Results
-
-*369,711 total votes were cast in this congressional election across three counties in the precinct.
-*Results by County Breakdown: 
- - Arapahoe had the lowest votes in the precinct, 6.7% with 24,801 total votes. 
- - Jefferson had 10.5% of the precinct's votes at a total of 38,855 votes. 
- - Denver had the largest participation of the precinct at 82.8% and a total vote number of 306,055.
-*Denver had the the highest number of votes in the precinct at 306,055.
-*Results by Candidate Breakdown: 
- - Raymon Doane received 3.1% of the precinct's votes for a total of 11,606 votes. 
- - Charles Stockham received an even 23% of the precinct's votes for a total of 85,213 votes.
- - Diana DeGette received the remaining 73.8% of the precinct's votes for a total of 272,892 votes.
-*With 272,892 total votes and 73.8% of the precinct's support, Diana DeGette won the popular vote in this congressional election. 
+- 369,711 total votes were cast in this congressional election across three counties in the precinct.
+- Results by County Breakdown: 
+ 1) Arapahoe had the lowest votes in the precinct, 6.7% with 24,801 total votes. 
+ 2) Jefferson had 10.5% of the precinct's votes at a total of 38,855 votes. 
+ 3) Denver had the largest participation of the precinct at 82.8% and a total vote number of 306,055.
+- Denver had the the highest number of votes in the precinct at 306,055.
+- Results by Candidate Breakdown: 
+ 1) Raymon Doane received 3.1% of the precinct's votes for a total of 11,606 votes. 
+ 2) Charles Stockham received an even 23% of the precinct's votes for a total of 85,213 votes.
+ 3) Diana DeGette received the remaining 73.8% of the precinct's votes for a total of 272,892 votes.
+- With 272,892 total votes and 73.8% of the precinct's support, Diana DeGette won the popular vote in this congressional election. 
 
 ## Election-Audit Summary
 This Python script could be used for a multitude of other election-related activities. For one, this script could be used to determine participation in voting districts to equalize access to polling places. In the event that a precinct has to be restructured to make more polling places available rather than risk overcrowding, one can determine the highest-traffic polling places by moving the counties to a dictionary and adding lists for the particular polling places within those dictionaries and requesting the return of percentage polling places receiving votes. ALternatively, it could be expanded to cover multiple congressional districts by segmenting the counties into lists and creating congressional district dictionaries, thus returning the results of each district for the total congressional election for the state. 
